@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlozanoa0&count_private=true&show_icons=true&include_all_commits=true&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlozanoa0&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=radical"/>
 </div>
 <br/>
  <div align="center">
