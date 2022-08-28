@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
   <span>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlozanoa0&exclude_repo=Resume,Portfolio&theme=dark"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlozanoa0&theme=dark"/>
   </span>
   &nbsp;
   <span>
