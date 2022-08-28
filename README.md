@@ -10,7 +10,7 @@
 <br/>
  <div align="center">
   <span>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jlozanoa0"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jlozanoa0&theme=radical"/>
   </span>
 </div>
 <br/>
