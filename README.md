@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Bienvenido a mi Perfil! <img src="https://media.giphy.com/media/5bgni66z8vbEwfrbon/giphy.gif" width="40px"></h1>
+  <h1>Welcome to my profile! <img src="https://media.giphy.com/media/5bgni66z8vbEwfrbon/giphy.gif" width="40px"></h1>
 </div>
 
 <div align="center">
@@ -7,10 +7,10 @@
 </div>
 <br/>
 <div align="center">
-  <span>
+  <!--<span>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlozanoa0&theme=dark"/>
   </span>
-  &nbsp;
+  &nbsp;-->
   <span>
      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jlozanoa0&theme=dark"/>
   </span>
